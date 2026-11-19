@@ -14,7 +14,7 @@ REPO_NAME = "YourRpgMakerRepo"
 GITHUB_TOKEN = "github_pat_YOUR_TOKEN_HERE"
 # ========================================================
 
-API_BASE_URL = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/issues"
+API_BASE_URL = f"https://api.github.com/repos/m-13222742-source/Rpg-Creator-1/issues"
 
 BUG_CATEGORIES = [
     "Engine Core",

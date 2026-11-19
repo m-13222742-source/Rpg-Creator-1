@@ -1,1 +1,11 @@
-
+            "END USER LICENSE AGREEMENT (EULA)"
+            "1. GRANT OF LICENSE"
+            "This software is licensed, not sold. We grant you a personal, non-exclusive, non-transferable license to use the RPG Creator Engine for game development purposes."
+            "2. ANTI-PIRACY & RESTRICTIONS"
+            "You may not copy, distribute, share, rent, or sell this software, its installation files, or any proprietary modules. Unauthorized redistribution or piracy of the Engine is strictly prohibited."
+            "3. REVERSE ENGINEERING & CORE MODIFICATIONS"
+            "You may not reverse engineer, decompile, disassemble, or attempt to extract the source code of the core engine, installer, or any generated dependencies."
+            "4. USER-CREATED PLUGINS (MODDING)"
+            "Notwithstanding the restrictions in Section 3, you are explicitly permitted to create, use, and freely distribute your own custom plugins or mods to extend the functionality of the Engine, provided these plugins do not modify or replace the proprietary core engine files."
+            "5. TERMINATION"
+            "Failure to comply with any of these terms will result in immediate revocation of your license, removal of your access, and potential legal action."
